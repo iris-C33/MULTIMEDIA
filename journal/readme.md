@@ -39,3 +39,4 @@
 - De ce que j'ai appris du prof, et par la suite que j'ai revue dans wiki, c'est que vallait mieux garder les preuves (image de référence), cela permet d'avoir un travail plus «propre», donc j'ai reréccupéré l'image de poisson d'avril dans mes calques que j'avais effacé le cours d'avant.
 - vidéo fin de cours: pour apprendre je suis aller visionner le « Tuto – Les Bases #2 – Découvrir les Calques (Krita - Novice) », ainsi de chez moi j'ai essayer de faire ce que la personne avait fait dans la video, mais je n'ai pas encore réussi
 
+"orange eyed green tree frog" by Madsvisions is licensed under CC BY-SA 2.0.
