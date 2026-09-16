@@ -1,4 +1,4 @@
-<img width="271" height="338" alt="image" src="https://github.com/user-attachments/assets/908ed008-04c2-4246-a66f-7dfc9f1a9ea1" /># MULTIMEDIA
+# MULTIMEDIA
 
 ## S1
 
