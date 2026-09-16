@@ -1,4 +1,4 @@
-# MULTIMEDIA
+<img width="271" height="338" alt="image" src="https://github.com/user-attachments/assets/908ed008-04c2-4246-a66f-7dfc9f1a9ea1" /># MULTIMEDIA
 
 ## S1
 
@@ -31,7 +31,8 @@
 ## S3
 
 ### Travail: même image que celle où j'ai pratiqué l'exercice de détourage 
-<img width="198" height="251" alt="image" src="https://github.com/user-attachments/assets/07a6b937-ad63-48c7-a5b5-d3105941a865" />
+<img width="269" height="338" alt="image" src="https://github.com/user-attachments/assets/57b1c09a-206f-475c-b881-8af51f01199d" />
+
 
 ### étape et démarche entreprise 
 - La Ronde en arrière plan: en cherchant une quelconque image à ajouter, j'ai trouver une ronde avec un ciel semblable a celui du tableau, donc me suis dit que ça allait être cool. Biensûr l'image restait opaque et donnait mal l'illusion qu'elle fesait partie du tableau donc en cherchant dans les fonctionnalité des couleurs de l'image, j'ai découvert qu'on pouvais enlever **l'opacité de l'image** que j'ai réglé à 61%.
