@@ -40,3 +40,24 @@
 - vidéo fin de cours: pour apprendre je suis aller visionner le « Tuto – Les Bases #2 – Découvrir les Calques (Krita - Novice) », ainsi de chez moi j'ai essayer de faire ce que la personne avait fait dans la video, mais je n'ai pas encore réussi
 
 "orange eyed green tree frog" by Madsvisions is licensed under CC BY-SA 2.0.
+
+
+## 4
+
+
+## 5
+
+### Travail : image animée d'une grenouille
+<img width="212" height="115" alt="image" src="https://github.com/user-attachments/assets/2c123027-389a-4fc0-8bb6-e492e57f9ea8" />
+<img width="211" height="114" alt="image" src="https://github.com/user-attachments/assets/a1102bfd-c7ad-4e28-a22c-e1474b22a5ec" />
+<img width="205" height="115" alt="image" src="https://github.com/user-attachments/assets/5b7bc37c-1fc4-439a-b5d7-aae809538b7e" />
+<img width="207" height="114" alt="image" src="https://github.com/user-attachments/assets/78ea0636-0ec6-4933-af01-f26621f7e54d" />
+<img width="205" height="110" alt="image" src="https://github.com/user-attachments/assets/c13217c8-d6cd-4a6d-a918-589c2e7361f4" />
+<img width="204" height="107" alt="image" src="https://github.com/user-attachments/assets/33a9e71b-3705-4af0-9732-79b9ee23c8dd" />
+
+
+### Étape et démarche 
+- Par mesieur arseneault j'ai appris sur krita différencier les calques et les scènes, de plus j'ai compris que 24f c'était équivalent à une seconde.
+- J'ai fait une petite animation de grenouille qui mange une mouche et en est satisfait.
+
+
