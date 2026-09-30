@@ -33,7 +33,7 @@
 ### Travail: même image que celle où j'ai pratiqué l'exercice de détourage 
 <img width="271" height="338" alt="image" src="https://github.com/user-attachments/assets/908ed008-04c2-4246-a66f-7dfc9f1a9ea1" />
 
-### étape et démarche entreprise 
+### étape et démarche 
 - La Ronde en arrière plan: en cherchant une quelconque image à ajouter, j'ai trouver une ronde avec un ciel semblable a celui du tableau, donc me suis dit que ça allait être cool. Biensûr l'image restait opaque et donnait mal l'illusion qu'elle fesait partie du tableau donc en cherchant dans les fonctionnalité des couleurs de l'image, j'ai découvert qu'on pouvais enlever **l'opacité de l'image** que j'ai réglé à 61%.
 - Les nuage rose en haut: j'ai utiliser la même technique que la ronde, je trouvais que les couleurs agensait bien à mon image.
 - De ce que j'ai appris du prof, et par la suite que j'ai revue dans wiki, c'est que vallait mieux garder les preuves (image de référence), cela permet d'avoir un travail plus «propre», donc j'ai reréccupéré l'image de poisson d'avril dans mes calques que j'avais effacé le cours d'avant.
@@ -42,10 +42,16 @@
 "orange eyed green tree frog" by Madsvisions is licensed under CC BY-SA 2.0.
 
 
-## 4
+## S4
+### Travail: remise de l'image « le tableau »
+
+### étape et démarche 
+- J'ai réaisé que je n'avais pas enregistré ce que j'avais ecrit dasn mon jour (croyais que ca s'enregistrait tout seul...) Donc voila j'ai du me rappler et tout réécrire.
+- J'ai finalisé des retouches à mon image que j'ai intitulé « le tableau ».
+- De plus j'ai organisé des sections dans github
 
 
-## 5
+## S5
 
 ### Travail : image animée d'une grenouille
 <img width="212" height="115" alt="image" src="https://github.com/user-attachments/assets/2c123027-389a-4fc0-8bb6-e492e57f9ea8" />
@@ -59,5 +65,14 @@
 ### Étape et démarche 
 - Par mesieur arseneault j'ai appris sur krita différencier les calques et les scènes, de plus j'ai compris que 24f c'était équivalent à une seconde.
 - J'ai fait une petite animation de grenouille qui mange une mouche et en est satisfait.
+
+
+# S6 
+
+### Travail : Gif
+
+### étape et démarche
+- J'ai téléchargé, pour prendre de l'avance, Shotcut.
+- 
 
 
