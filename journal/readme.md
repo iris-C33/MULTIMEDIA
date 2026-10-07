@@ -73,6 +73,16 @@
 
 ### étape et démarche
 - J'ai téléchargé, pour prendre de l'avance, Shotcut.
-- 
+- les formats à favoriser sur krita lorsque crée nouveau projet: 1920 par 1080
+- pour faire animation sur krita: fenetre en haut, espace de travail, STORYBORD
+- pendant le cour j'ai fait une petite animation ou j,ai utiliser le image par image simple en debut de l'animation, puis apres puisqu'il restait beaucoup de temps j'ai 
+- pour arriver a se que le prof nous a montrer en classe:
+1- aller dans parametre en haut, puis panneau, puis courbe d'animation.
+2- j'ai dessiner une plateforme sur un calque et un cercle sur un autre
+3- en dessous du cercle j'ai ajouter un calque de transformation
+4- ensuite, japios sur plus pour crer ma premiere scene,
+5- étape a répeter: dupliquer la scene, sélectionner avec le transport de calque, sélectionner l'esoace de temps choisi(plus est grande plus objet va bougr lentement), puis appuiyer sur le petit plus de la section de coube d'animation, puis deplacer le calque selectionner etrecommencer
+  
+  
 
 
