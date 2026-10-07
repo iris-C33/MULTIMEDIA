@@ -48,8 +48,7 @@
 ### étape et démarche 
 - J'ai réaisé que je n'avais pas enregistré ce que j'avais ecrit dasn mon jour (croyais que ca s'enregistrait tout seul...) Donc voila j'ai du me rappler et tout réécrire.
 - J'ai finalisé des retouches à mon image que j'ai intitulé « le tableau ».
-- De plus j'ai organisé des sections dans github
-
+- De plus j'ai organisé des sections dans github, puisque je n'avais pas compris le fonctionnement de comment l'enseignement demandais d'organiser le travail, mais c'est maintenant compris.
 
 ## S5
 
@@ -64,7 +63,7 @@
 
 ### Étape et démarche 
 - Par mesieur arseneault j'ai appris sur krita différencier les calques et les scènes, de plus j'ai compris que 24f c'était équivalent à une seconde.
-- J'ai fait une petite animation de grenouille qui mange une mouche et en est satisfait.
+- J'ai fait une petite animation de grenouille qui mange une mouche et en est satisfait. J'ai fait de l'image par image 
 
 
 ## S6 
@@ -74,9 +73,10 @@
 ### étape et démarche
 - J'ai téléchargé, pour prendre de l'avance, Shotcut.
 - les formats à favoriser sur krita lorsque crée nouveau projet: 1920 par 1080
-- pour faire animation sur krita: fenetre en haut, espace de travail, STORYBORD
-- pendant le cour j'ai fait une petite animation ou j'ai utilisé l'image par image , au debut de l'animation j'ai vraiment simplifier le truc pour m'habituer, puis apres puisqu'il restait beaucoup de temps j'ai décider de le continuer et délopper mon cercle mauve en oeuf qui ce casse laissant montrer deux bebes monstres. De cette partie j'ai surtout procédé avec la duplication de la scene précedante, puis ..............
-- isere a transferer mpon travail en un gyf complet, aide du prof mais sans succe
+- pour faire un animation sur krita: aller sur la fenetre en haut, sur l'espace de travail, puis sur STORYBORD
+- pendant le cour j'ai fait une petite animation ou j'ai utilisé l'image par image , au debut de l'animation j'ai vraiment simplifier le truc pour m'habituer, puis apres puisqu'il restait beaucoup de temps j'ai décider de le continuer et dévlopper mon cercle mauve en oeuf qui ce casse laissant montrer deux bebes monstres. De cette partie j'ai surtout procédé avec la duplication de la scene précedante, en utilisant ensuite la sélection à main levé, puis l'outil de transport de calque.
+- J'ai appris qu'on pouvais aussi apres la sélection de l'objet, faire ctrl-T, qui m'amenait à l'outil de transport de calque direct. 
+- en fin de cours j'ai procédé à la conversion de mon travail en gif, mais sans succè. J'ai eu de l'aide de mesieur Arseneault pour y arriver, mais on n'a pas réussi à importer toute la sequence duy gif.
   
 
 
@@ -90,10 +90,49 @@
 2- j'ai dessiner une plateforme sur un calque et un cercle sur un autre
 3- en dessous du cercle j'ai ajouter un calque de transformation
 4- ensuite, japios sur plus pour crer ma premiere scene,
-5- étape a répeter: dupliquer la scene, sélectionner avec le transport de calque, sélectionner l'esoace de temps choisi(plus est grande plus objet va bougr lentement), puis appuiyer sur le petit plus de la section de coube d'animation, puis deplacer le calque selectionner etrecommencer
--J'ai réaliser une boule qui tombe d'une plateofrme avec la nouvelle technique apprise, par contre je ne peut pas l'enregistrer, ni meme coller une imgae de mon travail, car mon krita ne repond pas ;
+5- étape à répéter: dupliquer la scene, sélectionner avec le transport de calque, sélectionner l'esoace de temps choisi(plus est grande plus objet va bougr lentement), puis appuiyer sur le petit « + » de la section de courbe d'animation, puis déplacer le calque selectionner et recommencer :)
+- c'est comme ca que'ai réaliser une boule qui tombe d'une plateofrme avec la nouvelle technique apprise, par contre je ne peut pas l'enregistrer, ni meme coller une imgae de mon travail, car mon krita ne repond pas (j'utilise le meme ordi que S6, est-ce l'ordi le problème?) ;
 <img width="2533" height="1446" alt="image" src="https://github.com/user-attachments/assets/f846e6cf-a365-4e92-b69a-6b88e5bdfde9" />
 
+
+## S8
+
+### objectifs
+-apprendre un 3eme apprentissage animation ( voir photo)
+-idee projet S9 (commecer et potentiellement finir)
+-organiser mon journal = y ajouter p^hoto
+
+
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
