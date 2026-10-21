@@ -82,7 +82,7 @@
 
 ## S7
 
-### Travail: Gif « la boule tombante »
+### Travail: Gif « la boule tombante » ( équivalent à exercice de la brique qui tombe )
 
 ### étape et démarche:
 - pour arriver a se que le prof nous a montrer en classe:
