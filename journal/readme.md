@@ -102,6 +102,7 @@
 -idee projet S9 (commecer et potentiellement finir)
 -organiser mon journal = y ajouter p^hoto
 
+video: How To Animate in Krita for Beginners — UPDATED 2023!
 
   
 
