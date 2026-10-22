@@ -97,12 +97,12 @@
 
 ## S8
 
-### objectifs
--apprendre un 3eme apprentissage animation ( voir photo)
--idee projet S9 (commecer et potentiellement finir)
+### durant le cours
+- J'ai regardé une video pour apprendre un nouvel apprentissage d'animation (video: How To Animate in Krita for Beginners — UPDATED 2023!). De sur krita, je suis aller sur animation, à la place du STORYBORD. À partie du tableau en bas qui sert aux éléments chronologiques, j'ai séletionner un premiere espace vis a vis le calque et y est dessiner dequoi, puis en appuyant sur l'espace suivant, le dessin persistera d'etre la, ainsi en pliquant avec le cote gauche de la souris sur cette case et selectionner option ......... ainsi dessin dessiner sur premiere case dispara lorsque est selectionné la seconde case. c'est la qu'on active l'icone de l'ampoule qui servira à visualiser l'image d'avant pour facilité le dessin suivant; c'est donc une autre maniere de faire de l'imgae par image. Aussi on peut deplacer les cases pour y ajouter des séquance entre deux mouvement desssiner.
+- Le remplacant nous a parlé du projet final final et nous a proposé de commencer à trouver des idées (l'objectif, l'intention et le sujet . et donc j'ai pensé à faire une ptite histoire qui mettrerait en scene un poisson qui reve de volé et donc tente d'y arriver avec different moyen. J'aimerais mélanger les trois technique que j'ai appris, sois l'image par image, celle avec les verteur et celle que j'ai appris ajourd'hui.
+- Pour la remise de la semaine 9 
 -organiser mon journal = y ajouter p^hoto
 
-video: How To Animate in Krita for Beginners — UPDATED 2023!
 
   
 
