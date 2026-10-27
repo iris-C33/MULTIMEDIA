@@ -79,13 +79,13 @@
 
 ### étape et démarche de réalisation
 - J'ai téléchargé, pour prendre de l'avance, Shotcut.
-- les formats à favoriser sur krita lorsque crée nouveau projet: 1920 par 1080
-- pour faire un animation sur krita: aller sur la fenetre en haut, sur l'espace de travail, puis sur STORYBORD
-- pendant le cour j'ai fait une petite animation ou j'ai utilisé l'image par image , au debut de l'animation j'ai vraiment simplifier le truc pour m'habituer, puis apres puisqu'il restait beaucoup de temps j'ai décider de le continuer et dévlopper mon cercle mauve en oeuf qui ce casse laissant montrer deux bebes monstres. De cette partie j'ai surtout procédé avec la duplication de la scene précedante, en utilisant ensuite la sélection à main levé, puis l'outil de transport de calque.
-- J'ai appris qu'on pouvais aussi apres la sélection de l'objet, faire ctrl-T, qui m'amenait à l'outil de transport de calque direct. 
-- en fin de cours j'ai procédé à la conversion de mon travail en gif, mais sans succè. J'ai eu de l'aide de mesieur Arseneault pour y arriver, mais on n'a pas réussi à importer toute la sequence duy gif.
-  
+- Pendant le cour, j'ai fait une petite animation ou j'ai utilisé l'image par image , au debut de l'animation j'ai vraiment simplifier le truc pour m'habituer, puis apres puisqu'il restait beaucoup de temps j'ai décider de le continuer et dévlopper mon cercle mauve en oeuf qui ce casse laissant montrer deux bebes monstres. De cette partie j'ai surtout procédé avec la duplication de la scene précedante, en utilisant ensuite la sélection à main levé, puis l'outil de transport de calque.
+- en fin de cours, j'ai procédé à la conversion de mon travail en gif, mais sans succès. J'ai eu de l'aide de mesieur Arseneault pour y arriver, mais on n'a pas réussi à importer toute la sequence de mon animation en gif.
 
+### Apprentissage
+- Je note, les formats à favoriser sur krita lorsque crée nouveau projet: 1920 par 1080
+- pour faire un animation sur krita: aller sur la fenetre en haut, sur l'espace de travail, puis sur STORYBORD  
+- J'ai appris qu'on pouvais aussi apres la sélection de l'objet, faire ctrl-T, qui m'amenait à l'outil de transport de calque direct. 
 ## S7
 
 ### Travail: Gif « la boule tombante » ( équivalent à exercice de la brique qui tombe )
@@ -93,15 +93,15 @@
 ### étape et démarche de réalisation: 
 - j'ai réaliser une boule qui tombe d'une plateofrme avec la nouvelle technique apprise par le prof (voir la session « Apprentissage » pour voir comment j'ai procéder). Je me suis inspiré de l'exercice du block qui tombe dans le contennue de cours.
 - À la fin du cours, je n'ai pu l'enregistrer, car mon krita ne repondais plus (noter que j'utilise le meme ordi que S6, est-ce l'ordi le problème?)
-- Heureusement j pas perdu le travail de la boule tombante! juste avAnt de fermer l'odi voici un petit appercu de ce que j'avais fait: ................
+- Heureusement j pas perdu le travail de la boule tombante! juste avAnt de fermer l'ordi, voici un petit appercu de ce que j'avais fait: ................
 
 
 ### Apprentissages
 - pour arriver a faire ce que le prof nous a montrer en classe:
-1- aller dans parametre en haut, puis panneau, puis courbe d'animation.
+1- aller dans Parametre en haut, puis Panneau, puis Courbe d'animation.
 2- j'ai dessiner une plateforme sur un calque et un cercle sur un autre
 3- en dessous du cercle j'ai ajouter un calque de transformation
-4- ensuite, japios sur plus pour crer ma premiere scene,
+4- ensuite, j'appuis sur « + » pour créer ma premiere scene,
 5- étape à répéter: dupliquer la scene, sélectionner avec le transport de calque, sélectionner l'espace de temps choisi(plus est grande plus objet va bougr lentement), puis appuyer sur le petit « + » de la section de courbe d'animation, puis déplacer le calque selectionner et recommencer :)
 
 <img width="2533" height="1446" alt="image" src="https://github.com/user-attachments/assets/f846e6cf-a365-4e92-b69a-6b88e5bdfde9" />
