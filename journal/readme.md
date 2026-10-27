@@ -1,5 +1,6 @@
 # MULTIMEDIA
 
+
 ## S1
 
 ### Travail : présentation du plan cour par prof et tentative de connextion codeberg
@@ -13,7 +14,7 @@
 ### Travail : exercice détourage 
 <img width="269" height="331" alt="image" src="https://github.com/user-attachments/assets/752222cd-7e25-4d7d-aad2-e148b457261d" />
 
-### Étape et démarche entreprise
+### Étape et démarche de réalisation
 - **Détourge** d'une queue: provenant d'une image de poisson d'avril, j'ai sélectionner en contournant la queue d'un des poisson avec l'outil de sélection à main lever, puis j'ai renverser la sélection pour effacer le fond.
 - l'enfant poisson: j'ai gosser un moment avant de trouver l'outil qui m'a permis de **déplacer, tourner, et inverser** l'image de la queue pour la faire porter à l'enfant du tableau.
 - **dégrader** de la queue: pour rendre plus vrai l'enfant poisson je voulais degrader le chevauchement queue-enfant, j'ai essayer de trouver des outils de dégradation, mais ce que j'avais trouver ce n'etait pas ce que je recherchais... donc j'ai finalement pris l'efface soft. J'ai aussi trouver ce que je cherchais plus tot, comment changer la taille et l'opacité d'un  l'outil (en haut, à droite).
@@ -33,22 +34,27 @@
 ### Travail: même image que celle où j'ai pratiqué l'exercice de détourage 
 <img width="271" height="338" alt="image" src="https://github.com/user-attachments/assets/908ed008-04c2-4246-a66f-7dfc9f1a9ea1" />
 
-### étape et démarche 
+### étape et démarche de réalisation
 - La Ronde en arrière plan: en cherchant une quelconque image à ajouter, j'ai trouver une ronde avec un ciel semblable a celui du tableau, donc me suis dit que ça allait être cool. Biensûr l'image restait opaque et donnait mal l'illusion qu'elle fesait partie du tableau donc en cherchant dans les fonctionnalité des couleurs de l'image, j'ai découvert qu'on pouvais enlever **l'opacité de l'image** que j'ai réglé à 61%.
 - Les nuage rose en haut: j'ai utiliser la même technique que la ronde, je trouvais que les couleurs agensait bien à mon image.
-- De ce que j'ai appris du prof, et par la suite que j'ai revue dans wiki, c'est que vallait mieux garder les preuves (image de référence), cela permet d'avoir un travail plus «propre», donc j'ai reréccupéré l'image de poisson d'avril dans mes calques que j'avais effacé le cours d'avant.
-- vidéo fin de cours: pour apprendre je suis aller visionner le « Tuto – Les Bases #2 – Découvrir les Calques (Krita - Novice) », ainsi de chez moi j'ai essayer de faire ce que la personne avait fait dans la video, mais je n'ai pas encore réussi
 
-"orange eyed green tree frog" by Madsvisions is licensed under CC BY-SA 2.0.
+### Apprentissages
+- De ce que j'ai appris du prof, et par la suite que j'ai revue dans wiki, c'est que vallait mieux garder les preuves (image de référence), cela permet d'avoir un travail plus «propre», donc j'ai reréccupéré l'image de poisson d'avril dans mes calques que j'avais effacé le cours d'avant.
+- vidéo fin de cours: pour apprendre je suis aller visionner le « Tuto – Les Bases #2 – Découvrir les Calques (Krita - Novice) », ainsi de chez moi j'ai essayer de faire ce que la personne avait fait dans la video, mais je n'ai pas encore réussi.
+
 
 
 ## S4
-### Travail: remise de l'image « le tableau »
 
-### étape et démarche 
-- J'ai réaisé que je n'avais pas enregistré ce que j'avais ecrit dasn mon jour (croyais que ca s'enregistrait tout seul...) Donc voila j'ai du me rappler et tout réécrire.
+### Remise de l'image « le tableau »
+
+### étape et démarche de réalisation
 - J'ai finalisé des retouches à mon image que j'ai intitulé « le tableau ».
-- De plus j'ai organisé des sections dans github, puisque je n'avais pas compris le fonctionnement de comment l'enseignement demandais d'organiser le travail, mais c'est maintenant compris.
+
+### Apprentissages
+- J'ai réalisé que je n'avais pas enregistré ce que j'avais écrit dans mon jour (croyais que ca s'enregistrait tout seul...) Donc voila j'ai du me rappler et tout réécrire. Je sais maintenant qu'on doit s'assurer d'enregistrer avant de quitter sur git hub:)
+- J'ai organisé mes sections dans github, puisque je n'avais pas compris le fonctionnement de comment l'enseignement demandais d'organiser le travail, mais c'est maintenant compris:)
+
 
 ## S5
 
@@ -60,17 +66,18 @@
 <img width="205" height="110" alt="image" src="https://github.com/user-attachments/assets/c13217c8-d6cd-4a6d-a918-589c2e7361f4" />
 <img width="204" height="107" alt="image" src="https://github.com/user-attachments/assets/33a9e71b-3705-4af0-9732-79b9ee23c8dd" />
 
+### étape et démarche de réalisation
+- J'ai tenter de faire une petite animation de grenouille qui mange une mouche et en est satisfait. J'ai utiliser la technique de l'image par image.
 
-### Étape et démarche 
+### Apprentissages
 - Par mesieur arseneault j'ai appris sur krita différencier les calques et les scènes, de plus j'ai compris que 24f c'était équivalent à une seconde.
-- J'ai fait une petite animation de grenouille qui mange une mouche et en est satisfait. J'ai fait de l'image par image 
 
 
 ## S6 
 
 ### Travail : Gif « monstremauve »
 
-### étape et démarche
+### étape et démarche de réalisation
 - J'ai téléchargé, pour prendre de l'avance, Shotcut.
 - les formats à favoriser sur krita lorsque crée nouveau projet: 1920 par 1080
 - pour faire un animation sur krita: aller sur la fenetre en haut, sur l'espace de travail, puis sur STORYBORD
@@ -79,29 +86,44 @@
 - en fin de cours j'ai procédé à la conversion de mon travail en gif, mais sans succè. J'ai eu de l'aide de mesieur Arseneault pour y arriver, mais on n'a pas réussi à importer toute la sequence duy gif.
   
 
-
 ## S7
 
 ### Travail: Gif « la boule tombante » ( équivalent à exercice de la brique qui tombe )
 
-### étape et démarche:
-- pour arriver a se que le prof nous a montrer en classe:
+### étape et démarche de réalisation: 
+- j'ai réaliser une boule qui tombe d'une plateofrme avec la nouvelle technique apprise par le prof (voir la session « Apprentissage » pour voir comment j'ai procéder). Je me suis inspiré de l'exercice du block qui tombe dans le contennue de cours.
+- À la fin du cours, je n'ai pu l'enregistrer, car mon krita ne repondais plus (noter que j'utilise le meme ordi que S6, est-ce l'ordi le problème?)
+- Heureusement j pas perdu le travail de la boule tombante! juste avAnt de fermer l'odi voici un petit appercu de ce que j'avais fait: ................
+
+
+### Apprentissages
+- pour arriver a faire ce que le prof nous a montrer en classe:
 1- aller dans parametre en haut, puis panneau, puis courbe d'animation.
 2- j'ai dessiner une plateforme sur un calque et un cercle sur un autre
 3- en dessous du cercle j'ai ajouter un calque de transformation
 4- ensuite, japios sur plus pour crer ma premiere scene,
-5- étape à répéter: dupliquer la scene, sélectionner avec le transport de calque, sélectionner l'esoace de temps choisi(plus est grande plus objet va bougr lentement), puis appuiyer sur le petit « + » de la section de courbe d'animation, puis déplacer le calque selectionner et recommencer :)
-- c'est comme ca que'ai réaliser une boule qui tombe d'une plateofrme avec la nouvelle technique apprise, par contre je ne peut pas l'enregistrer, ni meme coller une imgae de mon travail, car mon krita ne repond pas (j'utilise le meme ordi que S6, est-ce l'ordi le problème?) ;
+5- étape à répéter: dupliquer la scene, sélectionner avec le transport de calque, sélectionner l'espace de temps choisi(plus est grande plus objet va bougr lentement), puis appuyer sur le petit « + » de la section de courbe d'animation, puis déplacer le calque selectionner et recommencer :)
+
 <img width="2533" height="1446" alt="image" src="https://github.com/user-attachments/assets/f846e6cf-a365-4e92-b69a-6b88e5bdfde9" />
 
 
 ## S8
 
-### durant le cours
-- J'ai regardé une video pour apprendre un nouvel apprentissage d'animation (video: How To Animate in Krita for Beginners — UPDATED 2023!). De sur krita, je suis aller sur animation, à la place du STORYBORD. À partie du tableau en bas qui sert aux éléments chronologiques, j'ai séletionner un premiere espace vis a vis le calque et y est dessiner dequoi, puis en appuyant sur l'espace suivant, le dessin persistera d'etre la, ainsi en pliquant avec le cote gauche de la souris sur cette case et selectionner option ......... ainsi dessin dessiner sur premiere case dispara lorsque est selectionné la seconde case. c'est la qu'on active l'icone de l'ampoule qui servira à visualiser l'image d'avant pour facilité le dessin suivant; c'est donc une autre maniere de faire de l'imgae par image. Aussi on peut deplacer les cases pour y ajouter des séquance entre deux mouvement desssiner.
-- Le remplacant nous a parlé du projet final final et nous a proposé de commencer à trouver des idées (l'objectif, l'intention et le sujet . et donc j'ai pensé à faire une ptite histoire qui mettrerait en scene un poisson qui reve de volé et donc tente d'y arriver avec different moyen. J'aimerais mélanger les trois technique que j'ai appris, sois l'image par image, celle avec les verteur et celle que j'ai appris ajourd'hui.
-- Pour la remise de la semaine 9 
--organiser mon journal = y ajouter p^hoto
+### Démarche du cours: 
+- Le remplacant nous a parlé du projet final final et nous a proposé de commencer à trouver des idées en réflichissant sur: l'objectif/l'intention/le sujet. J'ai pensé à faire une ptite histoire qui mettrerait en scene un poisson qui rêve de vollé et tente d'y arriver avec differents moyen et lorsque qu'il y est presque, ce fait manger! J'aimerais mélanger les trois techniques que j'ai appris, sois l'image par image, celle avec les verteurs et celle que j'ai appris ajourd'hui.
+- Pour la remise de la semaine 9 (petite animation de environ 15 secondes sans son), j'ai décidé de rependre mon essai « montremauve », le continuer, en me servant de mes nouveles apprentissage.
+
+### Apprentissage
+- J'ai regardé une video pour apprendre un nouvel apprentissage d'animation (video: How To Animate in Krita for Beginners — UPDATED 2023!): De sur krita, je suis aller sur animation, à la place du STORYBORD. À partie du tableau en bas qui sert aux éléments chronologiques, j'ai séletionner un premiere espace vis a vis le calque et y est dessiner dequoi, puis en appuyant sur l'espace suivant, le dessin persistera d'etre la, ainsi en pliquant avec le cote gauche de la souris sur cette case et selectionner option ......... ainsi le calque de la seconde case sélectionner sera débarasser du dessin dessiné à partir de la premiere case. c'est la qu'on active l'icone de l'ampoule qui servira à visualiser l'image d'avant pour facilité le dessin suivant; c'est donc une autre maniere de faire de l'image par image. De plus, il est possible de  deplacer les cases pour y ajouter des séquence entre deux mouvement/dessin desssiné.
+
+### Objectif prochain cours
+Finir l'animation sans son de 15s de l'exercice monstre mauve. Penser à l'ouvrir sur ANIMATION et non STORYBORD, afin de pouvoir exploiter mes trois apprentissages dans le 15s. (PS- je dis ca, car monstremauve avait été fait à partir de STORYBORD et pour utiliser la technique que j'ai appris, je dois continuer l'animation sur ANIMATION.
+
+
+## S9
+
+### Remise animation sans son de 15s!!
+voici un appercu:............
 
 
   
