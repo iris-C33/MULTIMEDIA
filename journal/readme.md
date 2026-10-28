@@ -122,14 +122,20 @@
 - J'ai regardé une video pour apprendre un nouvel apprentissage d'animation (video: How To Animate in Krita for Beginners — UPDATED 2023!): De sur krita, je suis aller sur animation, à la place du STORYBORD. À partie du tableau en bas qui sert aux éléments chronologiques, j'ai séletionner un premiere espace vis a vis le calque et y est dessiner dequoi, puis en appuyant sur l'espace suivant, le dessin persistera d'etre la, ainsi en pliquant avec le cote gauche de la souris sur cette case et selectionner option créer une image vide. Ainsi le calque de la seconde case sélectionner sera débarasser du dessin dessiné à partir de la premiere case. c'est la qu'on active l'icone de l'ampoule qui servira à visualiser l'image d'avant pour facilité le dessin suivant; c'est donc une autre maniere de faire de l'image par image. De plus, il est possible de  deplacer les cases pour y ajouter des séquence entre deux mouvement/dessin desssiné.
 
 ### Objectif prochain cours
-Finir l'animation sans son de 15s de l'exercice monstre mauve. Penser à l'ouvrir sur ANIMATION et non STORYBORD, afin de pouvoir exploiter mes trois apprentissages dans le 15s. (PS- je dis ca, car monstremauve avait été fait à partir de STORYBORD et pour utiliser la technique que j'ai appris, je dois continuer l'animation sur ANIMATION.
+Finir l'animation sans son de 15s de l'exercice monstre mauve. Penser à l'ouvrir sur ANIMATION et non STORYBORD, afin de pouvoir exploiter mes trois apprentissages dans le 15s. (PS- je dis ca, car monstremauve avait été fait à partir de STORYBORD et pour faire comme j'ai appris, je veux continuer l'animation sur ANIMATION.
 
 
 ## S9
 
-### Remise animation sans son de 15s!!
+### Remise animation sans son de environ 15s!!
 <img width="104" height="59" alt="image" src="https://github.com/user-attachments/assets/7cab3303-b62b-4bb3-9a5e-bdbf5be1fb47" /> <img width="103" height="55" alt="image" src="https://github.com/user-attachments/assets/29931920-f6be-4f69-8a3c-823244ae767f" /> <img width="106" height="57" alt="image" src="https://github.com/user-attachments/assets/083c5e4e-fcca-4b4d-8eb2-481634b242c7" /> <img width="101" height="56" alt="image" src="https://github.com/user-attachments/assets/49843c79-469a-4b03-85f1-77373c6f837d" /> <img width="102" height="53" alt="image" src="https://github.com/user-attachments/assets/ff455c19-18dd-49f1-b799-7d6f59689a03" /> <img width="98" height="56" alt="image" src="https://github.com/user-attachments/assets/7bf41974-d30a-4bea-aaa2-cc7550b1e555" /> <img width="83" height="51" alt="image" src="https://github.com/user-attachments/assets/83943b01-8e99-4bc1-b710-6241acd84427" /> <img width="96" height="53" alt="image" src="https://github.com/user-attachments/assets/f3e53ca7-3d21-4366-9f42-9a1940529e8b" /> <img width="95" height="52" alt="image" src="https://github.com/user-attachments/assets/3dc472c6-3f9e-452a-b5bc-8cb5b5d65785" /> <img width="92" height="54" alt="image" src="https://github.com/user-attachments/assets/ac5cac42-961f-4de8-83cc-0c875a152376" /> <img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/a65d42ed-fdbd-45f6-8cd3-bfc5f1b80678" />
-... la suite est sur ma clé USB que j'ai égarer:(
+... la suite est sur ma clé USB que j'ai égarer:( et que j'ai retrouver apres le cour...
+<img width="600" height="299" alt="image" src="https://github.com/user-attachments/assets/9e5b292d-2dd6-4158-9764-64348ae97b01" /> <img width="342" height="200" alt="image" src="https://github.com/user-attachments/assets/7d6c25d3-b6db-4eec-a239-2aa9b6061522" /> <img width="359" height="224" alt="image" src="https://github.com/user-attachments/assets/b5d438f2-feec-4680-94c7-51eb79dca536" /> <img width="376" height="211" alt="image" src="https://github.com/user-attachments/assets/fb239086-921a-4179-af02-8054ed0e3fa6" />
+
+
+
+
+
 
 ### Démarche du cours: 
 -Jai chercher dans mon sac ma clé USB, mais je ne l'ai pas trouvée, dessus il y avait l'animation monstremauve que j'avait avancer dans le but de le remettre ce cours ci.
