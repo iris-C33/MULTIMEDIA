@@ -76,6 +76,7 @@
 ## S6 
 
 ### Travail : Gif « monstremauve »
+............
 
 ### étape et démarche de réalisation
 - J'ai téléchargé, pour prendre de l'avance, Shotcut.
@@ -86,6 +87,8 @@
 - Je note, les formats à favoriser sur krita lorsque crée nouveau projet: 1920 par 1080
 - pour faire un animation sur krita: aller sur la fenetre en haut, sur l'espace de travail, puis sur STORYBORD  
 - J'ai appris qu'on pouvais aussi apres la sélection de l'objet, faire ctrl-T, qui m'amenait à l'outil de transport de calque direct. 
+
+
 ## S7
 
 ### Travail: Gif « la boule tombante » ( équivalent à exercice de la brique qui tombe )
