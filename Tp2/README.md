@@ -8,6 +8,7 @@ En début de cour, j'ai réaliser que je n'avais pas ma clé USB (oublier veille
 
 ## Description 
 - Résolution 1920 x 1080
+- Fréquence image: 24/s (gif remise) et 12/s (gif clé USB)
 - Couleurs: uni et peu nombreuses (ce pourquoi le choix du gif)
 - Processus et techniques: Dans les environs 7 premieres secondes, de la premiere scene à l'éclosion total des monstres, j'ai utiliser la technique d'image par image. Par la suite, dans le rendu de ma clé USB, j'ai animé une étoile qui passait au dessus des tetes de mes créatures avec la technique vectorielle, celle avec la courbe d'animation et le calque de transformation. Malheureusement dans cet version-ci, alors que je croyais avoir perdu ma clé usb, j'ai tenté de me dépêcher de recréer quelque chose de similaire, mais comme on peut facilement le constater mon désir pressant de le finir n'a pas jouer en ma faveur. 
 
@@ -20,4 +21,4 @@ En début de cour, j'ai réaliser que je n'avais pas ma clé USB (oublier veille
 ## Commentaire/amélioration
 - J'avait prévu continuer après l'étoile (version clé USB), j'aurait montré un gros plan sur l'étoile où un sourire se dessinerait. J'aurait utilisé la nouvelle technique que j'avais appris à la semaine 8.
 - Aussi au niveau personnelle faudra que j'oganise mieux mon temps pour pouvoir tout faire. Entre les bugs, les impasses techniques et Krita qui décide de ne plus répondre, je dois répartir mon temps sur plus de ptites scéances que sur un moment mais de plus longue duré.
-- 
+- Faire plus attention à ne pas égarer ma clé USB lorsque je l'utilise dans local de l'école et penser les prochaines fois à garder une copie ailleur que sur la clé USB.
