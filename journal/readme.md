@@ -121,8 +121,10 @@
 ### Apprentissage
 - J'ai regardé une video pour apprendre un nouvel apprentissage d'animation (video: How To Animate in Krita for Beginners — UPDATED 2023!): De sur krita, je suis aller sur animation, à la place du STORYBORD. À partie du tableau en bas qui sert aux éléments chronologiques, j'ai séletionner un premiere espace vis a vis le calque et y est dessiner dequoi, puis en appuyant sur l'espace suivant, le dessin persistera d'etre la, ainsi en pliquant avec le cote gauche de la souris sur cette case et selectionner option créer une image vide. Ainsi le calque de la seconde case sélectionner sera débarasser du dessin dessiné à partir de la premiere case. c'est la qu'on active l'icone de l'ampoule qui servira à visualiser l'image d'avant pour facilité le dessin suivant; c'est donc une autre maniere de faire de l'image par image. De plus, il est possible de  deplacer les cases pour y ajouter des séquence entre deux mouvement/dessin desssiné.
 
-### Objectif prochain cours
-Finir l'animation sans son de 15s de l'exercice monstre mauve. Penser à l'ouvrir sur ANIMATION et non STORYBORD, afin de pouvoir exploiter mes trois apprentissages dans le 15s. (PS- je dis ca, car monstremauve avait été fait à partir de STORYBORD et pour faire comme j'ai appris, je veux continuer l'animation sur ANIMATION.
+
+
+### Objectif avant prochain cours
+Finir l'animation sans son de l'exercice monstre mauve. Penser à l'ouvrir sur ANIMATION et non STORYBORD, afin de pouvoir exploiter mes trois apprentissages. (PS- je dis ca, car monstremauve avait été fait à partir de STORYBORD et pour faire comme j'ai appris, je veux continuer l'animation sur ANIMATION, comme dans la vidéo).
 
 
 ## S9
@@ -133,13 +135,15 @@ Finir l'animation sans son de 15s de l'exercice monstre mauve. Penser à l'ouvri
 <img width="600" height="299" alt="image" src="https://github.com/user-attachments/assets/9e5b292d-2dd6-4158-9764-64348ae97b01" /> 
 
 ### Démarche du cours: 
--Jai chercher dans mon sac ma clé USB, mais je ne l'ai pas trouvée, dessus il y avait l'animation monstremauve que j'avait avancer dans le but de le remettre ce cours ci.
-- Donc voila j'ai essayer de reproduire ce que j'avais fait, mais en me dépechant le rendu d'apres l'eclosion des deux montres ne ressemble en rien avec celui sur ma cle USB.
+- Jai chercher dans mon sac ma clé USB, mais je ne l'ai pas trouvée, dessus il y avait l'animation monstremauve que j'avait avancer dans le but de le remettre ce cours ci.
+- Donc voila j'ai essayer de reproduire ce que j'avais fait, mais en me dépechant, le rendu d'apres l'eclosion des deux montres ne ressemble en rien avec celui sur ma cle USB.
 - J'ai finalement enregistrer cet version final pas fini, puis je l'ai remis en gif sur github
 
-### Rendu souhaité
+### Description rendu clé USB
+Mon but était de présenter l'animation de monstremauve, que j'ai fait avec la technique de imagae par image, puis à partir de l'image de la fin des deux monstres, je continuait avec une étoile qui passait au dessus des deux tetes avec la technique vectorielle/courbe d'animation avec le calque de transformation (meme technique que j'avais utiliser pour la boule qui tombe). C'est ce que j'avais fait sur la clé USB.
 
-Mon but était de présenter l'animation de monstremauve, que j'ai fait avec la technique de imagae par image, puis à partir de l'image de la fin des deux monstres, je continuait avec une étoile qui passait au dessus des deux tetes avec la technique vectorielle/courbe d'animation (meme technique que j'avais utiliser pour la boule qui tombe). 
+
+
 
 
 
