@@ -120,6 +120,7 @@
 
 ### Apprentissage
 - J'ai regardé une video pour apprendre un nouvel apprentissage d'animation (video: How To Animate in Krita for Beginners — UPDATED 2023!): De sur krita, je suis aller sur animation, à la place du STORYBORD. À partie du tableau en bas qui sert aux éléments chronologiques, j'ai séletionner un premiere espace vis a vis le calque et y est dessiner dequoi, puis en appuyant sur l'espace suivant, le dessin persistera d'etre la, ainsi en pliquant avec le cote gauche de la souris sur cette case et selectionner option créer une image vide. Ainsi le calque de la seconde case sélectionner sera débarasser du dessin dessiné à partir de la premiere case. c'est la qu'on active l'icone de l'ampoule qui servira à visualiser l'image d'avant pour facilité le dessin suivant; c'est donc une autre maniere de faire de l'image par image. De plus, il est possible de  deplacer les cases pour y ajouter des séquence entre deux mouvement/dessin desssiné.
+<img width="1014" height="515" alt="image" src="https://github.com/user-attachments/assets/4c0353e2-41df-413b-a004-661c661563fb" />
 
 
 
