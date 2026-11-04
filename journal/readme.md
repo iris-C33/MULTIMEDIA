@@ -144,6 +144,17 @@ Finir l'animation sans son de l'exercice monstre mauve. Penser à l'ouvrir sur A
 Mon but était de présenter l'animation de monstremauve, que j'ai fait avec la technique de imagae par image, puis à partir de l'image de la fin des deux monstres, je continuait avec une étoile qui passait au dessus des deux tetes avec la technique vectorielle/courbe d'animation avec le calque de transformation (meme technique que j'avais utiliser pour la boule qui tombe). C'est ce que j'avais fait sur la clé USB.
 
 
+## S10
+
+<img width="586" height="662" alt="image" src="https://github.com/user-attachments/assets/ab52b93a-d918-405f-9667-2919b349e6c1" />
+
+<img width="874" height="467" alt="image" src="https://github.com/user-attachments/assets/099eac79-c877-46ed-b7b2-881ca7afc1de" />
+<img width="867" height="472" alt="image" src="https://github.com/user-attachments/assets/16cec2db-26c3-461f-b75f-19f88d597b96" />
+
+<img width="353" height="623" alt="image" src="https://github.com/user-attachments/assets/84444e74-be64-4492-9d62-008929f70a83" />
+
+
+
 
 
 
