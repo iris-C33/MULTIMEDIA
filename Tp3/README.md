@@ -10,28 +10,29 @@ Pour l'animation visuel, j'ai choisi des petites videos visuelles libre de droit
 
 La premiere sequence visuelle debute par une animation de feu d'artifice (auteur; Chinar Minar)
 
-Son de l'eau (repris de openDAW exercice 1)
-Son de feu d'artifice arriere (freesound; auteur: redcrow1973)
-Bruit artifice (generateur 8bit: jsfxr) à partir d'un bruit d'explosion, je l'ai modifier en l'alongeant pour plus donner l'effet artifice pour accentuer les gros feu d'artifice de l'animation
-image
+- Son de l'eau (repris de openDAW exercice 1)
+- Son de feu d'artifice arriere (freesound; auteur: redcrow1973)
+- Bruit artifice (generateur 8bit: jsfxr) à partir d'un bruit d'explosion, je l'ai modifier en l'alongeant pour plus donner l'effet artifice pour accentuer les gros feu d'artifice de l'animation
+  
 
 La deuxieme séquence est celle d'un phoque (auteur; Solarselle77)
 
-Son de l'eau (repris de openDAW exercice 1)
-Cri de panique (auteur; owly-bee)
-Bruit de petard ((generateur 8bit: jsfxr) J'ai modifier un bruit d'explosion pour que ca sonne plutot comme un pétard
+- Son de l'eau (repris de openDAW exercice 1)
+- Cri de panique (auteur; owly-bee)
+- Bruit de petard ((generateur 8bit: jsfxr) J'ai modifier un bruit d'explosion pour que ca sonne plutot comme un pétard
 image
+
 
 La troisième séquence anime une femme à la guitare et un vieux meusieur (auteur; Ai FriedeDia)
 
-Bruit de foret (auteur; pborel)
-Bruit de bouche de femme (auteur; SkyRaeVoicing)
-Bruit de corde de guitar(auteur; Carlos_Vaquero)
-Bruit ccord de guitar (auteur; BiblicalBric)
-Bruit de chien (auteur; delphidebrain)
-Bruit de bouche d'homme (auteur; VSE00)
-Bruit de corde de guitar (generateur 8bit: jsfxr), j'ai joue parametre d'un synth pour me rapprocher plus possible Bruit d'une corde, c'est les premiers bruit de corde qu'on peut entendre.
-image
+- Bruit de foret (auteur; pborel)
+- Bruit de bouche de femme (auteur; SkyRaeVoicing)
+- Bruit de corde de guitar(auteur; Carlos_Vaquero)
+- Bruit ccord de guitar (auteur; BiblicalBric)
+- Bruit de chien (auteur; delphidebrain)
+- Bruit de bouche d'homme (auteur; VSE00)
+- Bruit de corde de guitar (generateur 8bit: jsfxr), j'ai joué avec les parametres à partir d'un synth pour me rapprocher plus possible du bruit d'une corde de guitard (ce sont les premiers bruit de corde qu'on peut entendre).
+
 
 ## Sources
 - https://www.pexels.com/fr-fr/video/feux-d-artifice-nocturnes-spectaculaires-au-dessus-de-la-riviere-39681457/ feu artifice)
