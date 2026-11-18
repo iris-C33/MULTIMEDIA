@@ -3,8 +3,7 @@
 https://github.com/user-attachments/assets/3368c2bc-9ea8-4e27-bf1d-7086cf13b72d
 
 ## Description: 
-Pour l'animation visuel, j'ai choisi des petites videos visuelles libre de droit sur pixabay et pexcels. .....
-
+Pour l'animation visuel, j'ai choisi des petites videos visuelles libre de droit sur pixabay et pexcels. La plupart des sons viennent de son qui existe déjà. Les sons pour lesquels j'ai, si on peu dire, plus de mérite serait ceux que voici:  celui du feu artifique où à partir d'un explosion sur jsfxr, j'ai modifié quelque parametre dont celui qui l'alongeant, ce qui donnait davantage l'effet d'un feu artifice. pour accentuer les gros feu d'artifice de l'animationj'ai modifier j'ai le sons d'explosif dans la sequence du phoque 
 
 ## Composition:
 
