@@ -182,6 +182,7 @@ Studio : openDAW
 Description: Pour l'animation visuel, j'ai choisi des petites videos visuelles libre de droit sur pixabay pour atteindre autour d'une minute. 
 
 Composition:
+
 La premiere sequence visuelle debute par une animation de feu d'artifice (auteur; Chinar Minar) 
 - Son de l'eau (repris de openDAW exercice 1)
 - feu d'artifice arriere (freesound; auteur: redcrow1973)
@@ -206,6 +207,13 @@ La troisième séquence anime une femme à la guitare et un vieux meusieur (aute
 - bruit de corde de guitar (generateur 8bit: jsfxr), j'ai joue parametre d'un synth pour me rapprocher plus possible bruit d'une corde, c'est les premiers bruit de corde qu'on peut entendre.
 <img width="179" height="197" alt="image" src="https://github.com/user-attachments/assets/2f731426-c892-434c-9192-620bfecd0694" />
 
+
+## S12 
+
+### Remise 3
+j'ai finaliser et couper les parties innutiles
+
+## S13
 
 
 
