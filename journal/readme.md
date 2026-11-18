@@ -149,22 +149,34 @@ Mon but était de présenter l'animation de monstremauve, que j'ai fait avec la 
 ### information pertinente
 - Même dimension (1920x 1080) pour le  projet son.
 - fondu = augmentation du son graduellement
-- Je me suis inscrite sur freesound: sur la plateforme on peut trouver plein de son de différent, il suffit de rechercher ce que l’on veut puis de sélectionner celui qui se rapproche le plus de mon idée, i
-Le prof nous a un peu fait le tour de kdenline pour nous montrer le fonctionnement du nouvel outils: pour astuces saunore d’une cathédrale, on va sur réverbération, aussi si on a des écouteurs—> prise verte. Pour ajouter des pistes - Audio ou Vidéo(contenue visuel) on dois aller dans ……….séquence,  puis  piste (icône reconnaissable à côté) et finalement choisir si veut audio ou vidéo.
+- exporter son par ......................................
+- Je me suis inscrite sur freesound: sur la plateforme on peut trouver plein de son de différent, il suffit de rechercher ce que l’on veut puis de sélectionner celui qui se rapproche le plus de mon idée + noter nom de l'auteur
+- Le prof nous a un peu fait le tour de kdenline pour nous montrer le fonctionnement du nouvel outils: pour astuces saunore d’une cathédrale, on va sur réverbération, aussi si on a des écouteurs à fil —> prise verte. Pour ajouter des pistes Audio ou Vidéo(contenue visuel) -> aller dans ……….séquence,  puis  piste (icône reconnaissable à côté) et finalement choisir si veut audio ou vidéo.
 
 ### Travail : exercice 1
 Action choisie : déluge  
 But : utiliser 3 techniques différentes
-Generateur 8bits : jsfxr
-Synthétiseur génératif: KinetiTone
-Studio : gridSound / openDAW(pas d’installation)
+- Generateur 8bits : jsfxr
+- Synthétiseur génératif: KinetiTone
+- Studio : gridSound / openDAW(pas d’installation)
 
+Generateur 8bits : jsfxr
 <img width="586" height="662" alt="image" src="https://github.com/user-attachments/assets/ab52b93a-d918-405f-9667-2919b349e6c1" />
 
+Synthétiseur génératif: KinetiTone
 <img width="874" height="467" alt="image" src="https://github.com/user-attachments/assets/099eac79-c877-46ed-b7b2-881ca7afc1de" />
 <img width="867" height="472" alt="image" src="https://github.com/user-attachments/assets/16cec2db-26c3-461f-b75f-19f88d597b96" />
 
+Studio : openDAW 
 <img width="353" height="623" alt="image" src="https://github.com/user-attachments/assets/84444e74-be64-4492-9d62-008929f70a83" />
+
+..............................
+
+
+## 11 
+
+### Travail: video autour d'une minute avec son
+Description: Pour l'animation visuel, j'ai choisi des petites videos visuelles libre de droit sur pixabay pour atteindre autour d'une minute. 
 
 
 
