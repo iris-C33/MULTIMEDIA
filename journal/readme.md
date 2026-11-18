@@ -161,22 +161,52 @@ But : utiliser 3 techniques différentes
 - Studio : gridSound / openDAW(pas d’installation)
 
 Generateur 8bits : jsfxr
+
 <img width="586" height="662" alt="image" src="https://github.com/user-attachments/assets/ab52b93a-d918-405f-9667-2919b349e6c1" />
 
 Synthétiseur génératif: KinetiTone
+
 <img width="874" height="467" alt="image" src="https://github.com/user-attachments/assets/099eac79-c877-46ed-b7b2-881ca7afc1de" />
 <img width="867" height="472" alt="image" src="https://github.com/user-attachments/assets/16cec2db-26c3-461f-b75f-19f88d597b96" />
 
 Studio : openDAW 
+
 <img width="353" height="623" alt="image" src="https://github.com/user-attachments/assets/84444e74-be64-4492-9d62-008929f70a83" />
 
 ..............................
 
 
-## 11 
+## S11 
 
 ### Travail: video autour d'une minute avec son
 Description: Pour l'animation visuel, j'ai choisi des petites videos visuelles libre de droit sur pixabay pour atteindre autour d'une minute. 
+
+Composition:
+La premiere sequence visuelle debute par une animation de feu d'artifice (auteur; Chinar Minar) 
+- Son de l'eau (repris de openDAW exercice 1)
+- feu d'artifice arriere (freesound; auteur: redcrow1973)
+- bruit artifice (generateur 8bit: jsfxr) à partir d'un bruit d'explosion, je l'ai modifier en l'alongeant pour plus donner l'effet artifice pour accentuer les gros feu d'artifice de l'animation 
+<img width="166" height="306" alt="image" src="https://github.com/user-attachments/assets/fbfb18cd-28f3-4e84-98fd-f99cc9ac66de" />
+
+
+  La deuxieme séquence est celle d'un phoque (auteur; Solarselle77)
+- Son de l'eau (repris de openDAW exercice 1)
+- cri de panique (auteur; owly-bee)
+- bruit de petard ((generateur 8bit: jsfxr) J'ai modifier un bruit d'explosion pour que ca sonne plutot comme un pétard 
+<img width="180" height="106" alt="image" src="https://github.com/user-attachments/assets/ad624864-ef57-4e84-bb25-8fc0783ca768" />
+
+
+La troisième séquence anime une femme à la guitare et un vieux meusieur (auteur; Ai FriedeDia)
+- bruit de foret (auteur; pborel)
+- bruit de bouche de femme (auteur; SkyRaeVoicing)
+- bruit de corde de guitar(auteur; Carlos_Vaquero)
+- accord de guitar (auteur; BiblicalBric)
+- bruit de chien (auteur; delphidebrain)
+- bruit de bouche d'homme (auteur; VSE00)
+- bruit de corde de guitar (generateur 8bit: jsfxr), j'ai joue parametre d'un synth pour me rapprocher plus possible bruit d'une corde, c'est les premiers bruit de corde qu'on peut entendre.
+<img width="179" height="197" alt="image" src="https://github.com/user-attachments/assets/2f731426-c892-434c-9192-620bfecd0694" />
+
+
 
 
 
