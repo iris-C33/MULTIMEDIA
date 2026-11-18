@@ -34,13 +34,13 @@ Bruit de corde de guitar (generateur 8bit: jsfxr), j'ai joue parametre d'un synt
 image
 
 ## Sources
-- https://www.pexels.com/fr-fr/video/feux-d-artifice-nocturnes-spectaculaires-au-dessus-de-la-riviere-39681457/
+- https://www.pexels.com/fr-fr/video/feux-d-artifice-nocturnes-spectaculaires-au-dessus-de-la-riviere-39681457/ feu artifice)
 - https://freesound.org/people/redcrow1973/sounds/190700/ (arriere artifice)
 
 - https://pixabay.com/videos/seal-waving-funny-seal-cute-seal-305345/ (phoque)
 - https://freesound.org/people/owly-bee/sounds/415354/ (cri)
 
-- https://pixabay.com/videos/ai-generated-woman-man-musician-386722/
+- https://pixabay.com/videos/ai-generated-woman-man-musician-386722/ (anime femme guitare)
 - https://freesound.org/people/VSE00/sounds/867879/ (vieux)
 - https://freesound.org/people/Carlos_Vaquero/sounds/153970/ (corde guitar)
 - https://freesound.org/people/delphidebrain/sounds/236281/ (chien)
