@@ -1,1 +1,1 @@
-# inspiration
+# inspiration et recherche
