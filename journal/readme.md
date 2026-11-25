@@ -215,6 +215,10 @@ j'ai finaliser et couper les parties innutiles
 
 ## S13
 
+### Idée projet final
+Pour le projet final, j'y est repenser et inspirer de mon projet photo de mon cour de photographie, je vais réaliser un animation d'une banane qui avec le temps bruni et se fait rejeter, pourtant elle a toujours de la valeur (ex peut toujours etre bon dans pain banane). Mon intention est de dénoncer et faire réfléchir à travers le reflet de la banane notre notre societe ou l'apparence  pour nous faire une opinion sur la personne. La valeur réelle intérieur de la personne souvent ignorer 
+
+
 
 
 
