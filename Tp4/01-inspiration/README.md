@@ -7,12 +7,4 @@ Pour le projet final, je m'inspire principalement de mon projet photo de mon cou
 à mettre dans sénario
 
 ## Tableau de battement 
-Durée        	Image (ce qu'on voit)	     Son (ce qu'on entend)     	Intention
-1	0:00–0:12			belle banane/ptit sourire     musique douce joyeuse         semble heureuse et lumineuse
-2	0:12–0:35			banane commence a avoir tache/horloge                 temps passe 
-3	0:35–0:50			
-4	0:50–1:12			
-5	1:12–1:30			
-6	1:25–1:40			
-7	1:40–1:50			
-8	1:50–2:00		
+<img width="3024" height="1953" alt="image" src="https://github.com/user-attachments/assets/ae779bc0-e898-4a2f-a675-edd76dfacdea" />
